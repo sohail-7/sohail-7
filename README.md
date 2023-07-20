@@ -21,8 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sohail-ibrahim-567624215" target="blank"><img src="https://github.com/sohail-7/sohail-7/assets/118377800/32379361-9984-49fb-bc62-d2d513334b1d" width="30" height="30" alt="2"/></a>
-<a href="https://instagram.com/sohailibrahim7" target="blank"><img src="https://github.com/sohail-7/sohail-7/assets/118377800/e31f49ae-f936-4ee4-b560-ec13017b99cb" alt="sohailibrahim7" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/sohail-ibrahim-567624215" target="blank">
+
+<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://instagram.com/sohailibrahim7" target="blank"><img src="https://tse2.mm.bing.net/th?id=OIP.kRVxyyo4cTP9H6oHcqroOgHaEK&pid=Api&P=0&h=180" alt="sohailibrahim7" height="40" width="40" /></a>
 </p>
 
 
