@@ -1,7 +1,7 @@
 
 <img src="https://github.com/sohail-7/sohail-7/assets/118377800/7a02274d-df48-4978-b5ca-48ab6f747b7a" width="100%" height="350" alt="11"/>
 <h1 align="center">Hi 👋, I'm SOHAIL IBRAHIM</h1>
-<h3 align="center">A passionate in Software development from India</h3>
+<h3 align="center">Passionate in Software development</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail-7&label=Profile%20views&color=0e75b6&style=flat" alt="sohail-7" /> </p>
