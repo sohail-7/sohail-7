@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [https://www.dropbox.com/scl/fo/75jkwuxr0d13hpzsq54j6/h?rlkey=zfqs2k1eky2q6swj5de73ez5b&dl=0](https://www.dropbox.com/scl/fo/75jkwuxr0d13hpzsq54j6/h?rlkey=zfqs2k1eky2q6swj5de73ez5b&dl=0)
 
-- ⚡ Fun fact **I think I am funny😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
