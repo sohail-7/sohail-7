@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sohail-7](https://github.com/sohail-7)
 
-- 📫 How to reach me **sohailibrahim45@gmail.com**
+- 📫 How to reach me **sohailibrahim11223@gmail.com**
 - 🔗 Also reach me using  **https://lnk.bio/sohail_ibrahim**
 
 - 📄 Know about my experiences https://www.dropbox.com/scl/fi/dmh448k0kv13zkjnqctrc/SHAIK-SOHAIL-IBRAHIM.pdf?dl=0&rlkey=eiqd6q0mxaskvk5j5ylg5ahuk
