@@ -15,7 +15,7 @@
 - 📫 How to reach me **sohailibrahim45@gmail.com**
 - 🔗 Also reach me using  **https://lnk.bio/sohail_ibrahim**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fo/75jkwuxr0d13hpzsq54j6/h?rlkey=zfqs2k1eky2q6swj5de73ez5b&dl=0](https://www.dropbox.com/scl/fo/75jkwuxr0d13hpzsq54j6/h?rlkey=zfqs2k1eky2q6swj5de73ez5b&dl=0)
+- 📄 Know about my experiences https://www.dropbox.com/scl/fi/dmh448k0kv13zkjnqctrc/SHAIK-SOHAIL-IBRAHIM.pdf?rlkey=eiqd6q0mxaskvk5j5ylg5ahuk&dl=0
 
 
 <h3 align="left">Connect with me:</h3>
